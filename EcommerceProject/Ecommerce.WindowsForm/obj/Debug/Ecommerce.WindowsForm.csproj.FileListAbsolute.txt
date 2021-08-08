@@ -1,9 +1,0 @@
-C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.WindowsForm\bin\Debug\Ecommerce.WindowsForm.exe.config
-C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.WindowsForm\bin\Debug\Ecommerce.WindowsForm.exe
-C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.WindowsForm\bin\Debug\Ecommerce.WindowsForm.pdb
-C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.WindowsForm\obj\Debug\Ecommerce.WindowsForm.csproj.AssemblyReference.cache
-C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.WindowsForm\obj\Debug\Ecommerce.WindowsForm.Properties.Resources.resources
-C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.WindowsForm\obj\Debug\Ecommerce.WindowsForm.csproj.GenerateResource.cache
-C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.WindowsForm\obj\Debug\Ecommerce.WindowsForm.csproj.CoreCompileInputs.cache
-C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.WindowsForm\obj\Debug\Ecommerce.WindowsForm.exe
-C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.WindowsForm\obj\Debug\Ecommerce.WindowsForm.pdb
