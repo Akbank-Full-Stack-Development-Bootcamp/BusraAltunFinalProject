@@ -1,0 +1,12 @@
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\bin\Debug\net5.0\Ecommerce.Entities.deps.json
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\bin\Debug\net5.0\Ecommerce.Entities.dll
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\bin\Debug\net5.0\ref\Ecommerce.Entities.dll
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\bin\Debug\net5.0\Ecommerce.Entities.pdb
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\obj\Debug\net5.0\Ecommerce.Entities.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\obj\Debug\net5.0\Ecommerce.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\obj\Debug\net5.0\Ecommerce.Entities.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\obj\Debug\net5.0\Ecommerce.Entities.AssemblyInfo.cs
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\obj\Debug\net5.0\Ecommerce.Entities.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\obj\Debug\net5.0\Ecommerce.Entities.dll
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\obj\Debug\net5.0\ref\Ecommerce.Entities.dll
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.Entities\obj\Debug\net5.0\Ecommerce.Entities.pdb

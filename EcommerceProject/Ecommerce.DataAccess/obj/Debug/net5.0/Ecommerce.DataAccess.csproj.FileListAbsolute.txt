@@ -1,0 +1,15 @@
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\obj\Debug\net5.0\Ecommerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\obj\Debug\net5.0\Ecommerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\obj\Debug\net5.0\Ecommerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\obj\Debug\net5.0\Ecommerce.DataAccess.AssemblyInfo.cs
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\obj\Debug\net5.0\Ecommerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\bin\Debug\net5.0\Ecommerce.DataAccess.deps.json
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\bin\Debug\net5.0\Ecommerce.DataAccess.dll
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\bin\Debug\net5.0\ref\Ecommerce.DataAccess.dll
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\bin\Debug\net5.0\Ecommerce.DataAccess.pdb
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\bin\Debug\net5.0\Ecommerce.Entities.dll
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\bin\Debug\net5.0\Ecommerce.Entities.pdb
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\obj\Debug\net5.0\Ecommerce.DataAccess.csproj.CopyComplete
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\obj\Debug\net5.0\Ecommerce.DataAccess.dll
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\obj\Debug\net5.0\ref\Ecommerce.DataAccess.dll
+C:\Users\busra\source\repos\BusraAltunFinalProject\EcommerceProject\Ecommerce.DataAccess\obj\Debug\net5.0\Ecommerce.DataAccess.pdb
